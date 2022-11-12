@@ -1,2 +1,2 @@
-# Linktree-Clone
+# Linktree Clone
 Linktree Cloned Personal Website 
